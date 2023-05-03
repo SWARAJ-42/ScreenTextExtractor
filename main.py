@@ -25,8 +25,6 @@ while True:
         print(ir.extract_text())
         exit(0)
 
-
-
 while True:
     cv2.imshow("window", img)
     if cv2.waitKey(1) & 0xFF == ord('x'):
