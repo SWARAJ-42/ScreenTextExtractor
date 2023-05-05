@@ -7,7 +7,5 @@ A Text extractor using OpenCV from the working screen.
 - Click on Extract.
 - Crop the section you want to extract from.
 - Press Enter to approve.
-- Press Enter to finalize.
-###          or
-- Click on close button to exit.
+- Press Enter to finalize or click on close button to exit.
 
