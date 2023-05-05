@@ -8,6 +8,6 @@ A Text extractor using OpenCV from the working screen.
 - Crop the section you want to extract from.
 - Press Enter to approve.
 - Press Enter to finalize.
-### or
+###          or
 - Click on close button to exit.
 
