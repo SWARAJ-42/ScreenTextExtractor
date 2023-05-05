@@ -15,7 +15,7 @@ def extract():
 
     roi = cv2.selectROI("Crop a section", img)
     cropped = img[int(roi[1]):int(roi[1]+roi[3]),
-                    int(roi[0]):int(roi[0]+roi[2])]
+                  int(roi[0]):int(roi[0]+roi[2])]
     if len(cropped) > 0:
         img = cv2.imwrite("Images/screenshot.png", cropped)
         while True:
