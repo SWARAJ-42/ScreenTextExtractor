@@ -7,6 +7,7 @@ A Text extractor using OpenCV which extract text from the working screen.
 
 - Run the mainwindow.py file.
 <img src="./ReadmeSources/1.png">
+
 - Open the screen where the desired text is present and click on Extract.
 <img src="./ReadmeSources/2.png">
 
